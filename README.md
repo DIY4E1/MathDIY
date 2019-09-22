@@ -8,6 +8,6 @@ MathDIY makes recommendations and suggestions for how determinants of the Intera
 <br>
 The scope extends inevitably to people, nature, democracy and the Internet without Frontiers (IwF), which are to be embedded as variables next to other units in a National Account System (NAS). The initial equation is D + I = Y (known as Democracy and Internet are Yours). Yield is thus influenced by these two forces.<br>
 <br>
-These new determinants must be reconciled with Y = C + I (known as Yield = Consumption + Investment) including comparable constraints (Y = C + S whereby S = Share). Well-formed syntax allows us to choose addition, subtraction, or insertion method in addition to the equations procedure. All determinants can be converted into a Balanced Scorecard (BSC).<br>
+These new determinants must be reconciled with Y = C + I (known as Yield = Consumption + Investment) including comparable constraints (Y = C + S whereby S = Save). Well-formed syntax allows us to choose addition, subtraction, or insertion method in addition to the equations procedure. All determinants can be converted into a Balanced Scorecard (BSC).<br>
 <br>
 MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FETA) and fundamentally changes the requirements for Diplomatic International Relations (DIR).
