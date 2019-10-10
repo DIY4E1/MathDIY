@@ -10,6 +10,6 @@ The scope extends inevitably to people, nature, democracy and the Internet witho
 <br>
 These new determinants must be reconciled with Y = C + I (known as Yield = Consumption + Investment) including comparable constraints (Y = C + S whereby S = Save). Well-formed syntax allows us to choose addition, subtraction, or insertion method in addition to the equations procedure. All determinants can be converted into a Balanced Scorecard (BSC).<br>
 <br>
-MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FETA) and fundamentally changes the requirements for Diplomatic International Relations (DIR).
+MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FETA) and fundamentally changes the requirements for Diplomatic International Relations (DIR).<br>
 <br>
 On MathDIY, an ecological and social accounting (social balance sheets, Human Development Index, chart of accounts, valuation ratios) based on international added value and value chains should be created. This would make foreign trade and diplomatic relations more comparable and less characterized by scalable economic interests, but based solely on measurable and sustainable facts and valuation standards.
