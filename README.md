@@ -13,3 +13,7 @@ These new determinants must be reconciled with Y = C + I (known as Yield = Consu
 MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FETA) and fundamentally changes the requirements for Diplomatic International Relations (DIR).<br>
 <br>
 On MathDIY, an ecological and social accounting (social balance sheets, Human Development Index, chart of accounts, valuation ratios) based on international added value and value chains should be created. This would make foreign trade and diplomatic relations more comparable and less characterized by scalable economic interests, but based solely on measurable and sustainable facts and valuation standards.
+<br>
+# Sketches
+With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate file attachments and show with templates how the principles of MathDIY should be used in practice.<br>
+You may have noticed that everyone involved works hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play.
