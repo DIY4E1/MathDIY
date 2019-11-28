@@ -16,7 +16,7 @@ On MathDIY, an ecological and social accounting (social balance sheets, Human De
 <br>
 # Sketches
 With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate file attachments and show with templates how the principles of MathDIY should be used in practice.<br>
-You may have noticed that everyone involved works hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play.
+You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play.
 <div>
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.001.jpeg">
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.002.jpeg">
@@ -24,4 +24,8 @@ You may have noticed that everyone involved works hard to work in a team, but th
 <div>
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.003.jpeg">
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.004.jpeg">
+</div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.005.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.006.jpeg">
 </div>
