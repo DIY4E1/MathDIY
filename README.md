@@ -26,6 +26,6 @@ You may have noticed that everyone involved in a process try hard to work in a t
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.004.jpeg">
 </div>
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.005.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.006.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-animations.001.gif">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-animations.002.gif">
 </div>
