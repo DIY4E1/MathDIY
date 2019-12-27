@@ -12,3 +12,6 @@
 <li>11. MathDIY present: The Interaction Law in competing ecosystems using a Balanced Score Cube (5/7)</li>
 <li>12. MathDIY present: The Interaction Law in competing ecosystems using a Balanced Score Cube (6/7)</li>
 <li>13. MathDIY present: The Interaction Law in competing ecosystems using a Balanced Score Cube (7/7)</li>
+<li>14. Hierarchy of needs and its downsides using geometry (1/3) – The Pythagorean Theorem – </li>
+<li>15. Hierarchy of needs and its downsides using geometry (2/3) – Proof of Contradiction by Euclid – </li>
+<li>16. Hierarchy of needs and its downsides using geometry (3/3) – The Squaring of the Circles – </li>
