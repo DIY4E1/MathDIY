@@ -4,3 +4,4 @@
 <li>Disrupting and understanding social engineering influencing organizational change and dynamic (*.measuring)</li>
 <li>Introduction in the Interaction Theory and its application to the Internet (*.theory)</li>
 <li>The Origin of Species - the human as an economic (f)actor (*.sociology)</li>
+<li>Catechism to the Internet without Frontiers (*.thesis)</li>
