@@ -37,3 +37,6 @@ You may have noticed that everyone involved in a process try hard to work in a t
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.015.jpeg">
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.016.jpeg">
 </div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.017.jpeg">
+</div>
