@@ -15,4 +15,4 @@
 <li>14. Hierarchy of needs and its downsides using geometry (1/4) – The Pythagorean Theorem – </li>
 <li>15. Hierarchy of needs and its downsides using geometry (2/4) – Proof of Contradiction by Euclid – </li>
 <li>16. Hierarchy of needs and its downsides using geometry (3/4) – The Squaring of the Circles – </li>
-<li>17. Hierarchy of needs and its downsides using geometry (3/4) – The Law of Constant Intersections – </li>
+<li>17. Hierarchy of needs and its downsides using geometry (4/4) – The Law of Constant Intersections – </li>
