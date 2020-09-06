@@ -15,25 +15,5 @@ MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FET
 On MathDIY, an ecological and social accounting (social balance sheets, Human Development Index, chart of accounts, valuation ratios) based on international added value and value chains should be created. This would make foreign trade and diplomatic relations more comparable and less characterized by scalable economic interests, but based solely on measurable and sustainable facts and valuation standards.
 <br>
 # Sketches
-With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate file attachments and show with templates how the principles of MathDIY should be used in practice.<br>
-You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play. At this point we only want to show a small selection
-<div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.001.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.002.jpeg">
-</div>
-<div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.003.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.004.jpeg">
-</div>
-<div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.005.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.006.jpeg">
-</div>
-<div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.014.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.015.jpeg">
-</div>
-<div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.016.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.017.jpeg">
-</div>
+With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate files and add them to the folder <a href="https://github.com/scifiltr/MathDIY/tree/master/attachments">attachments</a> and show with templates how the principles of MathDIY should be used in practice.<br>
+You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play.
