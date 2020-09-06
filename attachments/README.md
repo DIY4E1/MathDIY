@@ -16,3 +16,26 @@
 <li>15. Hierarchy of needs and its downsides using geometry (2/4) – Proof of Contradiction by Euclid – </li>
 <li>16. Hierarchy of needs and its downsides using geometry (3/4) – The Squaring of the Circles – </li>
 <li>17. Hierarchy of needs and its downsides using geometry (4/4) – The Law of Constant Intersections – </li>
+# Sketches
+With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate files and add them to the folder <a href="https://github.com/scifiltr/MathDIY/tree/master/attachments">attachments</a> and show with < a href=href="https://github.com/scifiltr/MathDIY/tree/master/templates">templates</a> how the principles of MathDIY should be used in practice.<br>
+You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play. At this point we only want to show a small selection.
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.001.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.002.jpeg">
+</div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.003.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.004.jpeg">
+</div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.005.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.006.jpeg">
+</div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.014.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.015.jpeg">
+</div>
+<div>
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.016.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.017.jpeg">
+</div>
