@@ -1,4 +1,4 @@
-<h1>MathDIY visualized in pictures:</h1>
+<h1>Attachments</h1>
 <li>01. DNA by Enterprise (E) : 12-S<sub>🄔</sub>-Molecule (business centrifuge)</li>
 <li>02. Marketing Potpourri: From the marketing mix (4Ps) to the policy mix (7Ps + ∑Px)</li>
 <li>03. Two Faces Paradoxon: People of Interests vs. Points of Intersection – a Battle of the Players</li>
@@ -16,8 +16,8 @@
 <li>15. Hierarchy of needs and its downsides using geometry (2/4) – Proof of Contradiction by Euclid – </li>
 <li>16. Hierarchy of needs and its downsides using geometry (3/4) – The Squaring of the Circles – </li>
 <li>17. Hierarchy of needs and its downsides using geometry (4/4) – The Law of Constant Intersections – </li>
-# Sketches
-With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate files and add them to the folder <a href="https://github.com/scifiltr/MathDIY/tree/master/attachments">attachments</a> and show with < a href=href="https://github.com/scifiltr/MathDIY/tree/master/templates">templates</a> how the principles of MathDIY should be used in practice.<br>
+<h1>Sketches</h1>
+With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate files and add them to the folder <a href="https://github.com/scifiltr/MathDIY/tree/master/attachments">attachments</a> and show with <a href="https://github.com/scifiltr/MathDIY/tree/master/templates">templates</a> how the principles of MathDIY should be used in practice.<br>
 You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play. At this point we only want to show a small selection.
 <div>
 <img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/MathDIY-attachments.001.jpeg">
