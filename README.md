@@ -1,5 +1,5 @@
 # MathDIY
-Democracy (D) and Internet are Yours (Y) stands for a macroeconomic value system created by Jens T. Hinrichs, but he does not yet provide an XML application. However, we have compatible data records for data warehouses (.csv, .tsv and so on). As of today, the documentation includes more than 250 mathematical formulations and its explanations.
+Democracy (D) and Internet are Yours (Y) stands for a macroeconomic value system created by Jens T. Hinrichs, but he does not yet provide an mobile application or programming interface. However, he has compatible data records for data warehouses (.csv, .tsv) or websites (.json). As of today, the documentation includes more than 250 mathematical formulations and its explanations.
 
 # Abstract
 MathDIY is a simple mathematical notation for describing business and political decision making, capturing its motivation, tensions, processes and context. It can also be a value-based Management Information System (MIS).<br>
