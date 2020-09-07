@@ -14,7 +14,7 @@ MathDIY finalizes and reflects the balance of Fair External Trade Agreement (FET
 <br>
 On MathDIY, an ecological and social accounting (social balance sheets, Human Development Index, chart of accounts, valuation ratios) based on international added value and value chains should be created. This would make foreign trade and diplomatic relations more comparable and less characterized by scalable economic interests, but based solely on measurable and sustainable facts and valuation standards.
 <h2>DNA</h2>
-The DNA factors in MathDIY answer whether there is a measure of value for democracies that conduct world trade with autocracies. In addition, these DNA factors should answer whether it makes sense to calculate many times more for bottled water than for sewage, tap water or irrigation.<br>
+The DNA factors in MathDIY answer whether there is a measure of value for democracies that conduct world trade with autocracies. In addition, these DNA factors should answer whether it makes sense to calculate many times more for bottled water than for sewage, tap water or irrigation.<br><br>
 <table>
   <tr>
     <th>MathDNA</th>
