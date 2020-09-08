@@ -192,11 +192,11 @@ Determinant for Quantity whereby difference quotient greater 0.</td>
     <td>Human Development Index
 in a reporting period: Work (W) is subset of Export (e.g. brain drain, movement of labour) plus Balance of Human indexed with offers and Human indexed with demands minus Humanity Import plus Human Balance indexed with (H) for consideration of absolute births and death in Households (H). Human Development Index in a reporting period:<br>
 Export of Work (W)<br>
- Human indexed with offers (o)<br>
-./.  Human indexed with demands (d)<br>
++ Human indexed with offers (o)<br>
+./. Human indexed with demands (d)<br>
 ———————————————————<br>
 ./. Humanity indexed with Import<br>
-Human Balance of birth and death indexed with Households (H)<br>
++ Human Balance of birth and death indexed with Households (H)<br>
 ———————————————————<br>
 = Human Development Index</td>
   </tr>
