@@ -81,8 +81,7 @@ The DNA factors strictly differentiate between the moral perception of individua
   </tr>
   <tr>
     <td>🄓 + I<sub>(Y)</sub>= 🄨</td>
-    <td>Approach to formation of Yours (Y). Democracy (D) and Internet are Yours (Y)
-whereby I<sub>(Y)</sub> ≠ Investment and I= Internet indexed with Yours in parenthesis.</td>
+    <td>Approach to formation of Yours (Y). Democracy (D) and Internet are Yours (Y) whereby I<sub>(Y)</sub> ≠ Investment and I= Internet indexed with Yours in parenthesis.</td>
   </tr>
  <tr>
     <td>🄨 = 🄓 x [🄝 - 🄐]</td>
@@ -142,7 +141,7 @@ whereby one unit (H) smaller than or equal to 9 Humans per home address (family 
     <td>State (S) as part of the economic cycle system. Upper case S in parenthesis, but (S) ≠ Save.</td>
   </tr>
 <tr>
-    <td>🄔 > 🄔<sub>s</sub> + 🄔<sub>m</sub> + 🄔<sub>l</sub>/td>
+    <td>🄔 > 🄔<sub>s</sub> + 🄔<sub>m</sub> + 🄔<sub>l</sub></td>
     <td>Small, medium, large Entrepreneur/Enterprise as parts of the economic cycle system. Size of Entrepreneur/Enterprise (E) separated in a five-level classification of size by employees, revenues (quantitative) of enterprise or entrepreneur which have tariff regulation (e.g. statutory minimum wage) or not organized by an union whereby unit (E) less than three branches per location (qualitative). (E) indexed with<br>
 xs = smallest entrepreneur: ≤ 9 and ≤ 2 Million<br> s = small-size: ≤ 20 to ≤ 49 and ≤ 10 Million<br>
 m = medium-size: 50 to ≤ 499 and ≤ 10 Million<br>
