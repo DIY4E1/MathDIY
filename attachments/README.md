@@ -8,7 +8,7 @@
 <li>5b. Interaction Theory briefly mentioned: The Origin of Species in the Internet Age and beyond (>1492 – >1760)</li>
 <li>6a. The Interaction Law in competing ecosystems using a Balanced Score Cube</li>
 <li>6b. The Interaction Law in competing ecosystems using a Balanced Score Compass</li>
-<li>7a. Hierarchy of needs and its downsides using geometry: The Pythagorean Theorem<li>
+<li>7a. Hierarchy of needs and its downsides using geometry: The Pythagorean Theorem</li>
 <li>7b. Hierarchy of needs and its downsides using geometry: Proof of Contradiction by Euclid</li>
 <li>7c. Hierarchy of needs and its downsides using geometry: The Squaring of the Circles</li>
 <li>7d. Hierarchy of needs and its downsides using geometry: The Law of Constant Intersections</li>
