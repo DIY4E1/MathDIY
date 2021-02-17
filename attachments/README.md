@@ -18,22 +18,22 @@
 With MathDIY we turn the previous doctrines upside down. Therefore we visualize the figures in separate files and add them to the folder <a href="https://github.com/scifiltr/MathDIY/tree/master/attachments">attachments</a> and show with <a href="https://github.com/scifiltr/MathDIY/tree/master/templates">templates</a> how the principles of MathDIY should be used in practice.<br>
 You may have noticed that everyone involved in a process try hard to work in a team, but thinks and acts as individuals. Then MathDIY comes into play. At this point we only want to show a small selection.
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/04a-Economic-Life-Cycle.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/04b-Product-Life-Cycle.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/04a-Economic-Life-Cycle.jpg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/04b-Product-Life-Cycle.jpg">
 </div>
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/05a-Origin-of-Species-in-the-Internet-Age-and-Beyond.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/05b-Origin-of-Species-in-the-Internet-Age-and-Beyond.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/05a-Origin-of-Species-in-the-Internet-Age-and-Beyond.jpg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/05b-Origin-of-Species-in-the-Internet-Age-and-Beyond.jpg">
 </div>
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07a-Hierarchy-of-Needs-Pythagorean-Theorem.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07b-Hierarchy-of-Needs-Proof-of-Contradiction-by-Euclid.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07a-Hierarchy-of-Needs-Pythagorean-Theorem.jpg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07b-Hierarchy-of-Needs-Proof-of-Contradiction-by-Euclid.jpg">
 </div>
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07c-Hierarchy-of-Needs-Squaring-of-the-Circles.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07d-Hierarchy-of-Needs-Law-of-Constant-Intersections.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07c-Hierarchy-of-Needs-Squaring-of-the-Circles.jpg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/07d-Hierarchy-of-Needs-Law-of-Constant-Intersections.jpg">
 </div>
 <div>
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/08-Law-of-Political-Stability.jpeg">
-<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/09-Intercultural-Value-Chain.jpeg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/08-Law-of-Political-Stability.jpg">
+<img width="45%" src="https://github.com/scifiltr/MathDIY/blob/master/attachments/09-Intercultural-Value-Chain.jpg">
 </div>
