@@ -5,7 +5,8 @@
 <li>The national account system with DNA (*.dna)</li>
 <li>Disrupting and understanding social engineering influencing organizational change and dynamic (*.measuring)</li>
 <li>Introduction in the Interaction Theory and its application to the Internet (*.theory)</li>
-<li>The Origin of Species - the human being as an economic (f)actor (*.sociology)</li>
+<li>The Origin of Species - The Human Being as an economic (f)actor (*.sociology)</li>
 <li>Catechism to the Internet without Frontiers (*.thesis)</li>
 <li>A few critical words to remember (*.lyrics)</li>
 <li>The importance of water including treatment, availability and its waste (*.water)</li>
+<li>The Origin of Species – The Human Being in the Internet Age and Beyond Analysis (*.readme)</li>
