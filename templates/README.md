@@ -3,3 +3,4 @@
 <li>Work (W) by Size Class of Entrepreneur/Enterprise (E)</li>
 <li>Strategic Simulation using a Balanced Score</li>
 <li>Structural Sketches on World Maps</li>
+<li>Consumer Price Index – List of Items with Units (without Weighting)</li>
